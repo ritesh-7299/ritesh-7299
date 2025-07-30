@@ -1,52 +1,67 @@
-<h1 align="center">Hey there, I'm Ritesh 👋</h1>
-
+<h1 align="center">Hi, I'm Ritesh 👨‍💻</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Engineer-Microservices-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cloud%20Native-Kubernetes,%20Azure,%20DigitalOcean-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20to%20collaborations-Yes-green?style=flat-square" />
+  <em>Senior Software Engineer | Backend Specialist</em><br>
+  <a href="mailto:riteshmacwan07@gmail.com">📫 Email</a> · 
+  <a href="https://www.linkedin.com/in/ritesh-macwan-8a70891ba">🔗 LinkedIn</a> · 
+  <a href="https://github.com/ritesh-7299">💻 GitHub</a>
 </p>
 
-### 🚀 About Me
+---
 
-I'm a backend-focused software engineer from India with 4+ years of experience building scalable systems. I’ve worked across diverse stacks — from **Laravel** monoliths to **NestJS** microservices — and deployed production-grade services using **Kubernetes** on **DigitalOcean** and **Azure**. My journey blends clean code, cloud-native engineering, and a touch of space-inspired creativity 🚀.
+## 🚀 Tech-forward Engineer with a Cloud-native Mindset
 
-- 🛠 Architected systems in **NestJS**, **Spring Boot**, and **Laravel**
-- 📊 Automated data pipelines with **Python** & **SQL**
-- ☁️ Deployed microservices with **Docker**, **K8s**, **CI/CD**, and **Kafka**
-- 🔍 Passionate about modular architecture, observability, and mentorship
-- 🧠 Currently diving deeper into **Java**, **Spring Boot**, and cloud infrastructure
+I'm a senior backend engineer passionate about crafting scalable systems, optimising data flows, and building resilient infrastructure. I specialize in designing and deploying microservices that hum in production, and I thrive in fast-moving environments where clean code, security, and observability matter.
+
+📍 Based in India · 🌍 Open to global collaboration
 
 ---
 
-### 🧰 Tech Toolbox
+## 🧰 My Stack Arsenal
 
 **Languages & Frameworks**  
-`NestJS` · `Laravel` · `Spring Boot` · `Vue.js` · `React` · `Node.js` · `Python` · `TypeScript` · `Java`
+`NestJS` · `Laravel` · `Spring Boot` · `Java` · `Node.js` · `Python` · `Vue.js` · `React.js`
 
 **Cloud & Infrastructure**  
-`Kubernetes` · `Azure` · `DigitalOcean` · `Docker` · `GitHub Actions` · `Kafka` · `Bull Queue` · `CI/CD`
+`Kubernetes` · `Docker` · `Azure` · `DigitalOcean` · `CI/CD Pipelines` · `GitHub Actions` · `Kafka` · `Bull Queue`
 
 **Databases & Tools**  
-`PostgreSQL` · `MongoDB` · `MySQL` · `Redis` · `Socket.io` · `Zod` · `Git` · `VS Code` · `IntelliJ`
+`PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `Prisma ORM` · `Zod` · `RabbitMQ` · `Socket.io`
 
 ---
 
-### 🔭 Featured Projects
+## 🏗️ What I’m Building Now
 
-- [**My Space**](#): MERN app with Google OAuth2, NASA API, and Tailwind magic  
-- [**Employee Manager**](#): Role-based system using Laravel + Vue.js for employee ops  
-- More coming soon... 🚧
+### 💡 EduFleet (Spring Boot Monolith)
+> Transitioned a Laravel-based microservices architecture into a modular Spring Boot monolith. Designed for educational institutions to manage students, courses, attendance, and performance analytics.
 
----
-
-### 📬 Let's Connect
-
-- 🔗 [LinkedIn](https://linkedin.com/in/ritesh)
-- 💼 [Portfolio](#)
-- 📫 Email: `riteshmacwan07@gmail.com`
+### 📁 Side Projects
+- **MySpace** → MERN app with NASA API, Google OAuth2, and Vercel deployment  
+- **Employee Manager** → Laravel + Vue.js app for role-based HR workflows, PDF reporting, and leave tracking
 
 ---
 
-> *“Great software isn't just built — it's crafted, tested, deployed, and constantly evolved.”*
+## 🌱 Learning & Growing
 
-Thanks for stopping by! Feel free to check out my repos, raise an issue, or just say hi 👋
+I’m currently digging deeper into:
+- 🔍 Advanced Spring Boot annotations, modular DDD architecture, and custom validators
+- ☁️ Kubernetes operators, Helm charts, and cloud cost optimization on Azure
+- 🧠 Improving system observability with Grafana, Prometheus, and structured logging
+
+---
+
+## 🤝 How I Work
+
+🧠 Resilient Problem Solver | 💬 Clear Communicator | 🧹 Clean Coder  
+🎓 Mentor & Collaborator | 🛠 Infra Enthusiast | 🔐 Security-Minded
+
+> I believe every line of code is a chance to design something simple, scalable, and secure.
+
+---
+
+## 🔗 Connect with Me
+
+📮 `riteshmacwan07@gmail.com`  
+🌐 [`https://www.linkedin.com/in/ritesh-macwan-8a70891ba`](https://www.linkedin.com/in/ritesh-macwan-8a70891ba)  
+💼 Portfolio site coming soon...
+
+---
