@@ -4,7 +4,7 @@
   <a href="mailto:riteshmacwan07@gmail.com">📫 Email</a> · 
   <a href="https://www.linkedin.com/in/ritesh-macwan-8a70891ba">🔗 LinkedIn</a> · 
   <a href="https://github.com/ritesh-7299">💻 GitHub</a> · 
-  <a href="https://drive.google.com/your-resume-link">📄 Resume</a>
+  <a href="https://github.com/ritesh-7299/resume/blob/main/ritesh_resume_js.pdf">📄 Resume</a>
 </p>
 
 ---
@@ -97,7 +97,7 @@ I build scalable, secure APIs and distributed systems, automate deployments, and
 
 📮 `riteshmacwan07@gmail.com`  
 🌐 [LinkedIn](https://www.linkedin.com/in/ritesh-macwan-8a70891ba)  
-📄 [Resume](https://drive.google.com/your-resume-link)
+📄 [Resume](https://github.com/ritesh-7299/resume/blob/main/ritesh_resume_js.pdf)
 
 ---
 
