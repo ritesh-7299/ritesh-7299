@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ritesh 👋</h1>
 <p align="center">
-  <em>Backend Engineer | NestJS & Microservices Specialist (also Spring Boot)</em><br>
+  <em>Backend Engineer | Java Spring Boot & Microservices Specialist (also NestJS)</em><br>
   <a href="mailto:riteshmacwan07@gmail.com">📫 Email</a> · 
   <a href="https://www.linkedin.com/in/ritesh-macwan-8a70891ba">🔗 LinkedIn</a> · 
   <a href="https://github.com/ritesh-7299">💻 GitHub</a> · 
@@ -11,8 +11,8 @@
 
 ## 🚀 About Me
 
-Backend Developer with **4+ years** of hands-on experience designing and deploying **NestJS/TypeScript** and **Java/Spring Boot** microservices.  
-I build scalable, secure APIs and distributed systems, automate deployments, and optimize data flows with modern DevOps practices.
+Backend Developer with **4+ years** of experience building **scalable, secure, and high-performance backend systems**.  
+Specializing in **Java Spring Boot microservices**, I also have hands-on experience with **NestJS/TypeScript**. I design RESTful APIs, implement microservices, optimize data flows, and deploy cloud-native applications with Docker, Kubernetes, and AWS/Azure.
 
 📍 Based in India · 🌍 Open to global opportunities
 
@@ -21,79 +21,41 @@ I build scalable, secure APIs and distributed systems, automate deployments, and
 ## 🧰 Core Tech Stack
 
 **Languages & Frameworks**  
-`NestJS` · `Node.js` · `TypeScript` · `Express.js` · `Java` · `Spring Boot` · `Spring Cloud`
+`Java` · `Spring Boot` · `Spring Data JPA` · `Spring Security` · `NestJS` · `TypeScript` · `Node.js`
 
-**Cloud & Infrastructure**  
-`Docker` · `Kubernetes` · `Azure` · `DigitalOcean` · `CI/CD Pipelines` · `GitHub Actions` · `Kafka`
+**Databases & Messaging**  
+`PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `Kafka`  
 
-**Databases & Tools**  
-`PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `Prisma ORM` · `Bull Queue` · `Socket.io`  
-
-> ⚡ Also familiar with Laravel + Vue.js for full-stack prototypes.
+**Cloud & DevOps**  
+`Docker` · `Kubernetes` · `AWS` · `Azure` · `DigitalOcean` · `CI/CD Pipelines` · `GitHub Actions`  
 
 ---
 
-## 🏗️ Experience Highlights
+## 🏗️ Selected Projects
 
-### Sr. Software Engineer — Groovy Web (Jun 2023 – Jun 2025)
-- Architected and developed scalable **NestJS/TypeScript** microservices with **PostgreSQL** and **Prisma ORM**  
-- Integrated **Kafka** for asynchronous messaging; orchestrated services via **Docker & Kubernetes** on **DigitalOcean** and **Azure**  
-- Spearheaded **CI/CD pipelines** with GitHub Actions; automated deployments to cut release times  
-- Conducted code reviews and mentored junior developers to raise engineering standards  
-- Owned backend reliability and infrastructure automation to ensure seamless deployments  
-
-### Data Processing Specialist — NielsenIQ (Jul 2022 – Dec 2022)
-- Automated large-scale data ingestion workflows with **Python** and **SQL**  
-- Developed reusable scripts to streamline analysis tasks and validated client-facing reports  
-
-### Software Engineer — Biztech IT Consultancy (Jan 2021 – Mar 2022)
-- Built and optimized backend logic in **Laravel** for eCommerce platforms handling **30M+ products**  
-- Delivered responsive front-end components with Vue.js and ensured performance at scale  
-
----
-
-## 🏆 Selected Projects
+### 🩺 Patient Management System
+> Microservices backend built with **Java Spring Boot**, featuring **API Gateway**, **Auth Service (JWT)**, and patient CRUD services.  
+> Deployed via Docker Compose with **Kafka** for asynchronous communication and **Spring Security** for role-based access control.  
 
 ### 🔊 Hushtalks (Client Project)
-> Privacy-First Audio Social Platform — [hushtalks.com](https://hushtalks.com)  
-> - Delivered backend for microservices-based social platform using **NestJS**, **Prisma ORM**, **PostgreSQL**, **Redis**, **Kafka**, **Docker**, **Kubernetes**, and **Azure**  
-> - Architected with privacy in mind—no personal data stored—optimized for secure, real-time voice interactions  
+> Privacy-first audio social platform — [hushtalks.com](https://hushtalks.com)  
+> Backend delivered with **NestJS, PostgreSQL, Redis, Kafka, Docker, Kubernetes, Azure** for real-time, scalable voice interactions.  
 
-### 🩺 Patient Management System (Microservices)
-> Java + Spring Boot microservice architecture with **API Gateway**, **Auth Service (JWT)**, and patient CRUD services.  
-> - Deployed with Docker Compose  
-> - Kafka for asynchronous events  
-> - Role-based access control via Spring Security  
+### 🚍 EduFleet
+> Modular backend for educational institutions using **Spring Boot, PostgreSQL, Redis**. Handles students, courses, attendance, and analytics.  
 
-### 💡 EduFleet
-> Modular Spring Boot application for educational institutions (students, courses, attendance, analytics).  
-> - Transitioned a Laravel microservices setup into a single Spring Boot modular monolith  
-> - Handles thousands of student records with optimized reporting  
-
-### 📁 My Space (Personal Project)
-> MERN app with NASA API, Google OAuth2, and Vercel deployment  
-> - Built full-stack React + Node.js app featuring secure authentication and daily NASA imagery  
-
----
-
-## 📈 My Impact & Strengths
-
-- Delivered backend systems processing **millions of requests** with high uptime  
-- Secured APIs with **OAuth2/JWT** and integrated centralized auth  
-- Automated deployments reducing release time by **50%+**  
-- Mentored junior developers on backend best practices  
+### 📁 My Space
+> MERN full-stack app using **NASA API, Google OAuth2**, and Vercel deployment. Secure authentication and dynamic content delivered to users.  
 
 ---
 
 ## 🌱 Currently Exploring
 
-- Advanced **Spring Cloud** patterns (Config Server, Service Discovery, Circuit Breakers)  
-- **Kubernetes** operators, Helm charts, and cost optimization on Azure  
-- Observability with **Prometheus & Grafana**
+Advanced **Spring Cloud** patterns, **Kubernetes operators**, and observability with **Prometheus & Grafana**.
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Connect with Me
 
 📮 `riteshmacwan07@gmail.com`  
 🌐 [LinkedIn](https://www.linkedin.com/in/ritesh-macwan-8a70891ba)  
